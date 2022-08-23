@@ -2,7 +2,7 @@
 
 >#### Sou Cristão 📖
 >#### 17 Anos 🧓
->#### Estudante Instituto Federal de Alaagoas(IFAL) e Estagiário Universidade Federal de Alagoas(UFAL) 🏫
+>#### Estudante Instituto Federal de Alagoas(IFAL) e Estagiário Universidade Federal de Alagoas(UFAL) 🏫
 
 <div>
   <a href="https://github.com/LucaRosendo">
