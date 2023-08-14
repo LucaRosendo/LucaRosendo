@@ -1,9 +1,8 @@
 ### Lucas Rosendo de Farias 
 
->#### Cristão 
->#### 18 Anos
->#### Técnico em Informática - Instituto Federal de Alagoas(IFAL)
->#### Estudante de Ciências da Computação -Universidade Federal de Alagoas(UFAL)
+>#### Christian 
+>#### Computer Technician - Federal Institute of Alagoas (IFAL)
+>#### Computer Science Student - Federal University of Alagoas (UFAL)
 
 <div>
   <a href="https://github.com/LucaRosendo">
