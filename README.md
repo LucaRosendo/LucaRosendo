@@ -1,6 +1,6 @@
 ### Lucas Rosendo de Farias 
 
->#### Christian 
+>#### Cristão  
 >#### Computer Technician - Federal Institute of Alagoas (IFAL)
 >#### Computer Science Student - Federal University of Alagoas (UFAL)
 
